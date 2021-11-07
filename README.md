@@ -9,7 +9,7 @@
 
 저는 좋은 코드를 작성하는 백엔드 프로그래머를 지망하는 학생입니다. 🚀  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
