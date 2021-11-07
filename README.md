@@ -23,7 +23,8 @@
 - 💬 좋은 분들과 소통하는 것을 좋아해요. 어떤 목적이라도 좋습니다!
 - 📫 이메일은 [dnxprbs@gmail.com](mailto:dnxprbs@gmail.com) 이에요.
 - 📝 포트폴리오는 준비 중이랍니다. 찡긋 😉
-- 🗃️ 기술·학습 블로그를 운영하고 있어요. [블로그 바로가기](https://taegyunwoo.github.io/)
+- 🗃️ 기술·학습 블로그를 운영하고 있어요.  
+    [블로그 바로가기](https://taegyunwoo.github.io/)
 
 <br/>
 
