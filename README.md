@@ -1,6 +1,6 @@
 <a align="right" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaegyunWoo&count_bg=%232B40B9&title_bg=%233A4050&icon=&icon_color=%2358CD14&title=Profile+%EC%A1%B0%ED%9A%8C&edge_flat=false"/></a>
 
-<h1 title="hehehe"> 반가워요 👋, 전 우태균입니다!</h3>
+<h1 title="hehehe"> 반가워요 👋,  우태균이라고 합니다!</h3>
 
 
 
