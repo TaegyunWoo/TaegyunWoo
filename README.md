@@ -16,7 +16,7 @@
 
 ----
 
-**Languages:**  
+<h3>Languages:</h3>  
 
 <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-**Frameworks:**  
+<h3>Frameworks:</h3>  
 
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-**Tools:**  
+<h3>Tools:</h3>  
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
 
@@ -48,7 +48,7 @@
 
 <br/>
 
-**Interested In:**  
+<h3>Interested In:</h3>  
 
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 
@@ -59,7 +59,7 @@
 
 ----
 
-**Stats**
+<h3>Stats</h3>
 
 ![TaegyunWoo's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=dracula)  
 
