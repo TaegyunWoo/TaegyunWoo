@@ -14,18 +14,6 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
-
-- 👨🏽‍💻 저는 백엔드 프로그래머가 되기 위해, 한발 한발 내딛는 대학생입니다.
-- 💼 컴퓨터공학과 3학년으로, 졸업예정일은 23년입니다.
-- 🌱 현재 Spring과 JPA에 대해 공부 중입니다.
-- 🤔 Java의 매력을 느껴, Spring-Boot를 통해 웹 애플리케이션을 구현하는 것에 큰 관심이 있습니다.
-- 💬 좋은 분들과 소통하는 것을 좋아해요. 어떤 목적이라도 좋습니다!
-- 📫 이메일은 [dnxprbs@gmail.com](mailto:dnxprbs@gmail.com) 이에요.
-- 📝 포트폴리오는 준비 중이랍니다. 찡긋 😉
-- 🗃️ 기술·학습 블로그를 운영하고 있어요.  
-    [블로그 바로가기](https://taegyunwoo.github.io/)
-
 <br/>
 
 ----
@@ -79,11 +67,6 @@
 
 
 
-[![Top Languages](https://github-readme-stats-sepia-three.vercel.app/api/top-langs/?username=TaegyunWoo&hide=scss,css,Ruby)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 ----
 
-Last Edited on: 2021-12-06
+Last Edited on: 2022-01-09
