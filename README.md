@@ -16,8 +16,10 @@
 
 ----
 <h3>Pinned:</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=211204-side-project/backend)](https://github.com/TaegyunWoo/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=Bros4Kkun/Back-end)](https://github.com/TaegyunWoo/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=211204-side-project/backend)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=Bros4Kkun/Back-end)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Languages:</h3>  
 
@@ -80,7 +82,9 @@
 
 <h3>Stats</h3>
 <span>
-  ![TaegyunWoo's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=dracula)  
+  
+![TaegyunWoo's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=dracula)
+  
 </span>
 
 ----
