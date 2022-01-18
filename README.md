@@ -16,8 +16,8 @@
 
 ----
 <h3>Pinned:</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taegyunwoo&repo=211204-side-project/backend)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taegyunwoo&repo=Bros4Kkun/Back-end)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taegyunwoo&repo=211204-side-project/backend)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taegyunwoo&repo=Bros4Kkun/Back-end)
 
 <h3>Languages:</h3>  
 
