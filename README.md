@@ -7,14 +7,32 @@
 <br />
 <br />
 
-안녕하세요.  
-좋은 코드를 작성하는 백엔드 프로그래머가 되고 싶은 학생 우태균입니다. 🚀  
+<div>
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
+  
+안녕하세요.  
+좋은 코드를 작성하는 백엔드 프로그래머가  
+되고자 하는 우태균입니다. 🚀
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+</div>
 
 <br/>
 
 ----
+
 <h3>Pinned:</h3>
 
 <span>
