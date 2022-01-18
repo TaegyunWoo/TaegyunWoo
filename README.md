@@ -17,9 +17,19 @@
 ----
 <h3>Pinned:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=211204-side-project/backend)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  
+  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://gh-card.dev/repos/TaegyunWoo/SocialWebService-Server-App.svg)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
+  &nbsp;&nbsp;&nbsp;
+  [![Bros4Kkun/Back-end - GitHub](https://gh-card.dev/repos/TaegyunWoo/RunToU-Server-App.svg)](https://github.com/TaegyunWoo/RunToU-Server-App)
+  
+</span>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=Bros4Kkun/Back-end)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  
+  [![TaegyunWoo/basic-web-CRUD - GitHub](https://gh-card.dev/repos/TaegyunWoo/basic-web-CRUD.svg)](https://github.com/TaegyunWoo/basic-web-CRUD)
+  
+</span>
 
 <h3>Languages:</h3>  
 
