@@ -19,15 +19,15 @@
 
 <span>
   
-  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://gh-card.dev/repos/TaegyunWoo/SocialWebService-Server-App.svg)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
+  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=SocialWebService-Server-App)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
   &nbsp;&nbsp;&nbsp;
-  [![Bros4Kkun/Back-end - GitHub](https://gh-card.dev/repos/TaegyunWoo/RunToU-Server-App.svg)](https://github.com/TaegyunWoo/RunToU-Server-App)
+  [![TaegyunWoo/RunToU-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=RunToU-Server-App)](https://github.com/TaegyunWoo/RunToU-Server-App)
   
 </span>
 
 <span>
   
-  [![TaegyunWoo/basic-web-CRUD - GitHub](https://gh-card.dev/repos/TaegyunWoo/basic-web-CRUD.svg)](https://github.com/TaegyunWoo/basic-web-CRUD)
+  [![TaegyunWoo/basic-web-CRUD - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=basic-web-CRUD)](https://github.com/TaegyunWoo/basic-web-CRUD)
   
 </span>
 
