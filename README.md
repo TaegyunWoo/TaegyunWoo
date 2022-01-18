@@ -12,18 +12,18 @@
 
   <br/>
   <br/>
-  <br/>
-  <br/>
-  <br/>
   
-  
-안녕하세요.  
+안녕하세요. ✋  
 좋은 코드를 작성하는 백엔드 프로그래머가  
 되고자 하는 우태균입니다. 🚀
+
+  <br/>
+  <br/>
   
-  <br/>
-  <br/>
-  <br/>
+- 📮이메일: dnxprbs@gmail.com
+- 📄블로그: [https://taegyunwoo.github.io](https://taegyunwoo.github.io)
+- 👷‍♂️포트폴리오: *아직 준비 중이에요.*
+  
   <br/>
   <br/>
   <br/>
