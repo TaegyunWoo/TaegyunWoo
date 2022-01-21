@@ -1,10 +1,6 @@
-<a align="right" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaegyunWoo&count_bg=%232B40B9&title_bg=%233A4050&icon=&icon_color=%2358CD14&title=Profile+%EC%A1%B0%ED%9A%8C&edge_flat=false"/></a>
+<a align="right" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaegyunWoo&count_bg=%232B40B9&title_bg=%233A4050&icon=&icon_color=%2358CD14&title=GitHub&edge_flat=false"/></a>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=282A36&fontColor=DD6387&height=200&section=header&text=Taegyun%20Woo&fontSize=60&fontAlignY=30&fontAlign=70)
-
-
-<br />
-<br />
 
 <div>
   
