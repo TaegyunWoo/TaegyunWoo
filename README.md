@@ -1,33 +1,19 @@
 <a align="right" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaegyunWoo&count_bg=%232B40B9&title_bg=%233A4050&icon=&icon_color=%2358CD14&title=Profile+%EC%A1%B0%ED%9A%8C&edge_flat=false"/></a>
 
-<h1 title="hehehe"> 반가워요 👋,  우태균이라고 합니다!</h3>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=282A36&fontColor=DD6387&height=200&section=header&text=Taegyun%20Woo&fontSize=60&fontAlignY=30&fontAlign=70)
 
 
 <br />
 <br />
 
 <div>
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-  <br/>
-  <br/>
   
 안녕하세요. ✋  
-좋은 코드를 작성하는 백엔드 프로그래머가  
-되고자 하는 우태균입니다. 🚀
-
-  <br/>
-  <br/>
+좋은 코드를 작성하는 백엔드 프로그래머가 되고자 하는 우태균입니다. 🚀
   
 - 📮이메일: dnxprbs@gmail.com
 - 📄블로그: [https://taegyunwoo.github.io](https://taegyunwoo.github.io)
 - 👷‍♂️포트폴리오: *아직 준비 중이에요.*
-  
-  <br/>
-  <br/>
-  <br/>
-  <br/>
 
 </div>
 
@@ -39,15 +25,15 @@
 
 <span>
   
-  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=SocialWebService-Server-App)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
+  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=SocialWebService-Server-App&theme=dracula)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
   &nbsp;&nbsp;&nbsp;
-  [![TaegyunWoo/RunToU-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=RunToU-Server-App)](https://github.com/TaegyunWoo/RunToU-Server-App)
+  [![TaegyunWoo/RunToU-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=RunToU-Server-App&theme=dracula)](https://github.com/TaegyunWoo/RunToU-Server-App)
   
 </span>
 
 <span>
   
-  [![TaegyunWoo/basic-web-CRUD - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=basic-web-CRUD)](https://github.com/TaegyunWoo/basic-web-CRUD)
+  [![TaegyunWoo/basic-web-CRUD - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=basic-web-CRUD&theme=dracula)](https://github.com/TaegyunWoo/basic-web-CRUD)
   
 </span>
 
