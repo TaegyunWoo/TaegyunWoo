@@ -1,6 +1,6 @@
 <a align="right" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaegyunWoo&count_bg=%232B40B9&title_bg=%233A4050&icon=&icon_color=%2358CD14&title=GitHub&edge_flat=false"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=282A36&fontColor=DD6387&height=200&section=header&text=Taegyun%20Woo&fontSize=60&fontAlignY=30&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=282A36&fontColor=FEAF01&height=200&section=header&text=Taegyun%20Woo&fontSize=60&fontAlignY=30&fontAlign=70)
 
 <div>
   
@@ -21,15 +21,15 @@
 
 <span>
   
-  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=SocialWebService-Server-App&theme=dracula)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
+  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=SocialWebService-Server-App&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
   &nbsp;&nbsp;&nbsp;
-  [![TaegyunWoo/RunToU-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=RunToU-Server-App&theme=dracula)](https://github.com/TaegyunWoo/RunToU-Server-App)
+  [![TaegyunWoo/RunToU-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=RunToU-Server-App&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/RunToU-Server-App)
   
 </span>
 
 <span>
   
-  [![TaegyunWoo/basic-web-CRUD - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=basic-web-CRUD&theme=dracula)](https://github.com/TaegyunWoo/basic-web-CRUD)
+  [![TaegyunWoo/basic-web-CRUD - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=basic-web-CRUD&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/basic-web-CRUD)
   
 </span>
 
@@ -95,7 +95,7 @@
 <h3>Stats</h3>
 <span>
   
-![TaegyunWoo's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=dracula)
+![TaegyunWoo's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=vision-friendly-dark)
   
 </span>
 
