@@ -96,9 +96,11 @@
 <span>
   
 ![TaegyunWoo's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=vision-friendly-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaegyunWoo&layout=compact&hide=scss,css,shell,ruby&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/github-readme-stats)
   
 </span>
 
 ----
 
-Last Edited on: 2022-01-18
+Last Edited on: 2022-01-29
