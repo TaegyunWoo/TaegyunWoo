@@ -101,6 +101,13 @@
   
 </span>
 
+<span>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dnxprbs)](https://solved.ac/dnxprbs)
+
+</span>
+
 ----
 
-Last Edited on: 2022-01-29
+Last Edited on: 2022-03-14
