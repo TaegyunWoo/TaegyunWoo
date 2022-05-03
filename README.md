@@ -29,7 +29,7 @@
 
 <span>
   
-  [![TaegyunWoo/soma-wiki-backend - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=soma-wiki-backend&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/soma-wiki-backend)
+  [![TaegyunWoo/Soma-Wiki-Backend - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=Soma-Wiki-Backend&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/Soma-Wiki-Backend)
   
 </span>
 
