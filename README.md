@@ -29,7 +29,7 @@
 
 <span>
   
-  [![TaegyunWoo/basic-web-CRUD - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=basic-web-CRUD&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/basic-web-CRUD)
+  [![TaegyunWoo/soma-wiki-backend - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=soma-wiki-backend&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/soma-wiki-backend)
   
 </span>
 
