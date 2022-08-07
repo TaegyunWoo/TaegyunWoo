@@ -30,6 +30,8 @@
 <span>
   
   [![TaegyunWoo/Soma-Wiki-Backend - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=Soma-Wiki-Backend&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/Soma-Wiki-Backend)
+  &nbsp;&nbsp;&nbsp;
+  [![TGT-SWM/HeyLocal-Traveler-Server - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Traveler-Server&theme=vision-friendly-dark)](https://github.com/TGT-SWM/HeyLocal-Traveler-Server)
   
 </span>
 
