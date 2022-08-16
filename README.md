@@ -20,8 +20,7 @@
 <h3>Pinned:</h3>
 
 <span>
-  
-  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=SocialWebService-Server-App&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
+  [![TGT-SWM/HeyLocal-Traveler-Server - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Traveler-Server&theme=vision-friendly-dark)](https://github.com/TGT-SWM/HeyLocal-Traveler-Server)
   &nbsp;&nbsp;&nbsp;
   [![TaegyunWoo/RunToU-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=RunToU-Server-App&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/RunToU-Server-App)
   
@@ -31,7 +30,7 @@
   
   [![TaegyunWoo/Soma-Wiki-Backend - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=Soma-Wiki-Backend&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/Soma-Wiki-Backend)
   &nbsp;&nbsp;&nbsp;
-  [![TGT-SWM/HeyLocal-Traveler-Server - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Traveler-Server&theme=vision-friendly-dark)](https://github.com/TGT-SWM/HeyLocal-Traveler-Server)
+  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=SocialWebService-Server-App&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
   
 </span>
 
