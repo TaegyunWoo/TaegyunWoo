@@ -21,7 +21,7 @@
 
 <span>
 
-  [![TGT-SWM/HeyLocal-Traveler-Server - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Traveler-Server&theme=vision-friendly-dark)](https://github.com/TGT-SWM/HeyLocal-Traveler-Server)
+  [![TGT-SWM/HeyLocal-Server - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Traveler-Server&theme=vision-friendly-dark)](https://github.com/TGT-SWM/HeyLocal-Server)
   &nbsp;&nbsp;&nbsp;
   [![TaegyunWoo/RunToU-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=RunToU-Server-App&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/RunToU-Server-App)
   
