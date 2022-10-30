@@ -31,7 +31,7 @@
   
   [![TaegyunWoo/Soma-Wiki-Backend - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=Soma-Wiki-Backend&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/Soma-Wiki-Backend)
   &nbsp;&nbsp;&nbsp;
-  [![TaegyunWoo/SocialWebService-Server-App - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=SocialWebService-Server-App&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
+  [![TGT-SWM/HeyLocal-Crawling-Server - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Crawling-Server&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/SocialWebService-Server-App)
   
 </span>
 
