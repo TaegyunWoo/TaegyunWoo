@@ -7,10 +7,10 @@
 안녕하세요. ✋  
 좋은 코드를 작성하는 백엔드 프로그래머가 되고자 하는 우태균입니다. 🚀
   
-- 📮 Email: dnxprbs@gmail.com
-- 📄 Blog: [https://taegyunwoo.github.io](https://taegyunwoo.github.io)
-- 🪪 Resume: [Notion](https://alive-mimosa-4e2.notion.site/a1cbdc59f8114af8a8f1228847d01cdb)
-- 👷‍♂️ Portfolio: *아직 준비 중이에요.*
+- 📮  Email: dnxprbs@gmail.com
+- 📄  Blog: [https://taegyunwoo.github.io](https://taegyunwoo.github.io)
+- 🪪  Resume: [Notion](https://alive-mimosa-4e2.notion.site/a1cbdc59f8114af8a8f1228847d01cdb)
+- 👷‍♂️  Portfolio: *아직 준비 중이에요.*
 
 </div>
 
