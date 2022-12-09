@@ -9,6 +9,7 @@
   
 - 📮이메일: dnxprbs@gmail.com
 - 📄블로그: [https://taegyunwoo.github.io](https://taegyunwoo.github.io)
+- 🪪Resume: [Notion](https://alive-mimosa-4e2.notion.site/a1cbdc59f8114af8a8f1228847d01cdb)
 - 👷‍♂️포트폴리오: *아직 준비 중이에요.*
 
 </div>
