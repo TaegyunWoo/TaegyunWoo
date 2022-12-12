@@ -10,7 +10,7 @@
 - 📮  Email: dnxprbs@gmail.com
 - 📄  Blog: [https://taegyunwoo.github.io](https://taegyunwoo.github.io)
 - 🪪  Resume: [Notion](https://taegyun-resume.simple.ink)
-- 👷‍♂️  Portfolio: [Notion](https://taegyun.simple.ink)
+- 🗃️  Portfolio: [Notion](https://taegyun.simple.ink)
 
 </div>
 
