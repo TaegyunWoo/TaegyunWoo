@@ -22,17 +22,17 @@
 
 <span>
 
-  [![TGT-SWM/HeyLocal-Server - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Traveler-Server&theme=vision-friendly-dark)](https://github.com/TGT-SWM/HeyLocal-Server)
+  [![TGT-SWM/HeyLocal-Server - GitHub](https://github-readme-stats-sepia-three.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Traveler-Server&theme=vision-friendly-dark)](https://github.com/TGT-SWM/HeyLocal-Server)
   &nbsp;&nbsp;&nbsp;
-  [![Bros4Kkun/RunToU-Server - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Bros4Kkun&repo=RunToU-Server&theme=vision-friendly-dark)](https://github.com/Bros4Kkun/RunToU-Server)
+  [![Bros4Kkun/RunToU-Server - GitHub](https://github-readme-stats-sepia-three.vercel.app/api/pin/?username=Bros4Kkun&repo=RunToU-Server&theme=vision-friendly-dark)](https://github.com/Bros4Kkun/RunToU-Server)
   
 </span>
 
 <span>
   
-  [![TGT-SWM/HeyLocal-Crawling-Server - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Crawling-Server&theme=vision-friendly-dark)](https://github.com/TGT-SWM/HeyLocal-Crawling-Server)
+  [![TGT-SWM/HeyLocal-Crawling-Server - GitHub](https://github-readme-stats-sepia-three.vercel.app/api/pin/?username=TGT-SWM&repo=HeyLocal-Crawling-Server&theme=vision-friendly-dark)](https://github.com/TGT-SWM/HeyLocal-Crawling-Server)
   &nbsp;&nbsp;&nbsp;
-  [![TaegyunWoo/swagger-error-response-extension - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=TaegyunWoo&repo=swagger-error-response-extension&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/swagger-error-response-extension)
+  [![TaegyunWoo/swagger-error-response-extension - GitHub](https://github-readme-stats-sepia-three.vercel.app/api/pin/?username=TaegyunWoo&repo=swagger-error-response-extension&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/swagger-error-response-extension)
   
 </span>
 
