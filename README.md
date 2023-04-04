@@ -5,7 +5,7 @@
 <div>
   
 안녕하세요. ✋  
-주니어 백엔드  우태균입니다. 🚀
+주니어 백엔드 개발자 우태균입니다. 🚀
   
 - 📮  Email: dnxprbs@gmail.com
 - 📄  Blog: [https://taegyunwoo.github.io](https://taegyunwoo.github.io)
