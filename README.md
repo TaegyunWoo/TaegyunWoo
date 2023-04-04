@@ -5,7 +5,7 @@
 <div>
   
 안녕하세요. ✋  
-좋은 코드를 작성하는 백엔드 프로그래머가 되고자 하는 우태균입니다. 🚀
+주니어 백엔드  우태균입니다. 🚀
   
 - 📮  Email: dnxprbs@gmail.com
 - 📄  Blog: [https://taegyunwoo.github.io](https://taegyunwoo.github.io)
