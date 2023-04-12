@@ -98,7 +98,7 @@
 <span>
 
   
-<img src="https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=vision-friendly-dark" width="400">
+<img src="https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=vision-friendly-dark" width="410">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaegyunWoo&layout=compact&hide=scss,css,shell,ruby&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/github-readme-stats) -->
   
@@ -107,7 +107,7 @@
 <span>
 
 <a href="https://solved.ac/dnxprbs">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=dnxprbs" width="350">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=dnxprbs" width="330">
 </a>
 
 </span>
