@@ -96,8 +96,9 @@
 
 <h3>Stats</h3>
 <span>
+
   
-![TaegyunWoo's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=vision-friendly-dark)
+<img src="https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=vision-friendly-dark" width="480">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaegyunWoo&layout=compact&hide=scss,css,shell,ruby&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/github-readme-stats) -->
   
@@ -105,8 +106,9 @@
 
 <span>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dnxprbs)](https://solved.ac/dnxprbs)
+<a href="https://solved.ac/dnxprbs">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=dnxprbs" width="400">
+</a>
 
 </span>
 
