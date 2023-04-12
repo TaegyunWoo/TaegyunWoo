@@ -107,7 +107,7 @@
 <span>
 
 <a href="https://solved.ac/dnxprbs">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=dnxprbs" width="400">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=dnxprbs" width="350">
 </a>
 
 </span>
