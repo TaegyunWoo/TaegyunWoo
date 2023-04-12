@@ -98,7 +98,7 @@
 <span>
 
   
-<img src="https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=vision-friendly-dark" width="480">
+<img src="https://github-readme-stats-sepia-three.vercel.app/api?username=TaegyunWoo&show_icons=true&theme=vision-friendly-dark" width="400">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaegyunWoo&layout=compact&hide=scss,css,shell,ruby&theme=vision-friendly-dark)](https://github.com/TaegyunWoo/github-readme-stats) -->
   
